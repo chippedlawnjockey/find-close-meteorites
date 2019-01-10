@@ -5,4 +5,9 @@ Test Repository
 
 This project requires Python 3 and the requests package.
 
-`python3 find_meteors.py`
+First istall pipenv.  Then:
+
+```
+pipenv install
+pipenv run "python find_meteors.py"
+```
